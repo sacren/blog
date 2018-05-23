@@ -9,7 +9,7 @@ routing is heavily employed as well.
 
 ## Prerequisite
 
-1. Ruby must be installed with version 2.3.7 or later:
+1. Ruby must be installed with version 2.5.1 or later:
 
         $ ruby --version
 
