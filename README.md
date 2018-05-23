@@ -9,21 +9,21 @@ routing is heavily employed as well.
 
 ## Prerequisite
 
-1. Ruby must be installed with version 2.5.1 or later:
+1. Ruby must be installed of version 2.5.1:
 
         $ ruby --version
 
-2. RubyGem must be installed with version 2.7.6 or later:
+2. RubyGem must be installed of version 2.7.6 or later:
 
         $ gem --version
 
-3. Sqlite must be installed with version 3.23.1 or later:
+3. Sqlite must be installed of version 3.23.1 or later:
 
         $ sqlite3 --version
 
-## Setup
+## Setup and dependencies
 
-1. Install Rails and check installed version:
+1. Install Rails 5.2.0:
 
         $ gem install rails
         $ rails --version
@@ -32,6 +32,8 @@ routing is heavily employed as well.
 
         $ git clone git://github.com/sacren/blog.git blog
         $ cd blog
+
+3. Install nokogiri 1.8.2 provided by the distribution.
 
 ## Getting started
 
